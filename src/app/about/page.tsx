@@ -8,6 +8,7 @@ function About() {
         <Link href="/">Go to Home</Link>
         <h1 className='main-title'>Farid Akanda</h1>
         <h2 className="secondary-title">I am a full stack developer!</h2>
+        <p>I'm using nextjs for frontend and django for backend in my project.</p>
     </div>
   )
 }
